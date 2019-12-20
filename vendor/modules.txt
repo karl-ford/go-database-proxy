@@ -1,0 +1,15 @@
+# github.com/Unknwon/goconfig v0.0.0-20191126170842-860a72fb44fd
+github.com/Unknwon/goconfig
+# github.com/denisenkom/go-mssqldb v0.0.0-20191128021309-1d7a30a10f73
+github.com/denisenkom/go-mssqldb
+github.com/denisenkom/go-mssqldb/internal/cp
+github.com/denisenkom/go-mssqldb/internal/decimal
+github.com/denisenkom/go-mssqldb/internal/querytext
+# github.com/go-sql-driver/mysql v1.4.1
+github.com/go-sql-driver/mysql
+# github.com/golang-sql/civil v0.0.0-20190719163853-cb61b32ac6fe
+github.com/golang-sql/civil
+# golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
+golang.org/x/crypto/md4
+# google.golang.org/appengine v1.6.5
+google.golang.org/appengine/cloudsql
